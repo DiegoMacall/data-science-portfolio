@@ -80,33 +80,14 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 
 ### Programming and Data
 
-- Python
-- R
+- Python (NumPy, pandas, Matplotlib, Seaborn, scikit-learn, Keras, SimPy)
+- R (tidyverse, dplyr, ggplot2, data.table, caret, Shiny)
 - SQL
 - Git and GitHub
 - Microsoft Excel
 - Jupyter Notebook
-- RMarkdown
-
-### Python Libraries
-
-- pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- scikit-learn
-- Keras
-- SimPy
-
-### R Libraries and Tools
-
-- tidyverse
-- dplyr
-- ggplot2
-- data.table
-- caret
-- Shiny
-
+- RMarkdown (Documents and Slide Presentations)
+- 
 ### Web Development
 
 - Django
