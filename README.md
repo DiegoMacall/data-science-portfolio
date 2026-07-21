@@ -59,7 +59,7 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 | Project | Platform | Status | Description |
 |---|---|---|---|
 | [ICABR 2026 Budget Tool](https://diegomacall.shinyapps.io/icabr_budget_app/) | R Shiny | Live | Interactive budgeting application for conference planning and financial monitoring. |
-| [Ciberra Food System Intelligence Platform] (ciberra.com) | Django | Live | Web platform designed to provide intelligence across agricultural production, movement, distribution, retail, and consumption. |
+| [Ciberra Food System Intelligence Platform](ciberra.com) | Django | Live | Web platform designed to provide intelligence across agricultural production, movement, distribution, retail, and consumption. |
 | Agricultural Market Dashboard | Python or R Shiny | Planned | Dashboard for exploring commodity prices, market indicators, and historical trends. |
 | Data Exploration Application | Streamlit | Planned | Interactive Python application allowing users to upload, inspect, summarize, and visualize datasets. |
 
