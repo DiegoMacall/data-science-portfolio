@@ -24,7 +24,7 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 ## ⭐ Featured Projects
 
 | Project | Area | Tools | Description |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | [ICABR 2026 Budget Tool](https://diegomacall.shinyapps.io/icabr_budget_app/) | Budget analysis and decision support | R, Shiny, tidyverse | Interactive application developed to support financial planning and budget management for the 2026 ICABR Conference. |
 | Costa Rican Consumer Perceptions of Gene Editing | Survey analysis and data visualization | R, ggplot2, statistical analysis | Analysis of consumer perceptions toward gene editing, including regional comparisons and publication-quality visualizations. |
 | Agricultural Commodity Market Analysis | Time-series analysis | Python, pandas, Matplotlib | Analysis of agricultural commodity prices, market trends, volatility, and changes over time. |
@@ -35,7 +35,7 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 ## 🐍 Python and Data Science
 
 | Project | Area | Libraries | Project Description |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Agricultural Commodity Price Analysis | Time-series analysis | pandas, NumPy, Matplotlib | Cleans and analyses commodity price data to identify trends, price movements, and periods of market volatility. |
 | Food Supply Chain Simulation | Simulation modelling | SimPy, pandas, Matplotlib | Models the movement of agricultural products through production, transportation, storage, and distribution stages. |
 | Exploratory Data Analysis Project | Data wrangling and EDA | pandas, Matplotlib, Seaborn | Demonstrates data cleaning, exploratory analysis, statistical summaries, and visual communication. |
@@ -46,7 +46,7 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 ## 📈 R and Statistical Analysis
 
 | Project | Area | Tools | Project Description |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Costa Rican Consumer Perceptions of Gene Editing | Survey analysis | R, tidyverse, ggplot2 | Analyses survey data and communicates consumer attitudes through statistical summaries and visualizations. |
 | Costa Rican Rice Production Trends | Agricultural statistics | R, ggplot2, dplyr | Examines changes in rice production, cultivated area, and yield across multiple agricultural seasons. |
 | Bioeconomy Research Visualizations | Research communication | R, ggplot2 | Converts academic and policy research into clear, presentation-ready statistical graphics. |
@@ -57,18 +57,17 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 ## 🖥️ Dashboards and Applications
 
 | Project | Platform | Status | Description |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | [ICABR 2026 Budget Tool](https://diegomacall.shinyapps.io/icabr_budget_app/) | R Shiny | Live | Interactive budgeting application for conference planning and financial monitoring. |
 | [Ciberra Food System Intelligence Platform](https://ciberra.com) | Django | Live | Web platform designed to provide intelligence across agricultural production, movement, distribution, retail, and consumption. |
-| Agricultural Market Dashboard | Python or R Shiny | Planned | Dashboard for exploring commodity prices, market indicators, and historical trends. |
-| Data Exploration Application | Streamlit | Planned | Interactive Python application allowing users to upload, inspect, summarize, and visualize datasets. |
+| [Maryland Alcohol Sales Dashboard](maryland-alcohol-dashboard/) | Python, Plotly Dash | Code available | Interactive exploration of sales by month, channel, item type, supplier, and product. |
 
 ---
 
 ## 🌾 Food Systems and Sustainability
 
 | Project | Subject | Tools | Project Description |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Food System Intelligence Framework | Food systems | Python, Django, data visualization | Organizes food-system information across production, logistics, distribution, retail, and consumption. |
 | Agricultural Commodity Market Analysis | Agricultural economics | Python, pandas | Studies agricultural market behaviour through price, production, and trade data. |
 | Gene-Editing Consumer Perceptions | Agricultural innovation | R, statistical analysis | Investigates consumer attitudes toward emerging agricultural technologies. |
@@ -87,7 +86,8 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 - Microsoft Excel
 - Jupyter Notebook
 - RMarkdown (Documents and Slide Presentations)
-- 
+-
+
 ### Web Development
 
 - Django
