@@ -36,9 +36,7 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 
 | Project | Area | Libraries | Project Description |
 | --- | --- | --- | --- |
-
-- **[E-Commerce Sales Performance Analysis](projects/ecommerce-sales-analysis/)** *(in progress)* — Python-based analysis of online sales and business performance, featuring statistical analysis, data visualisations, and a concise report with actionable insights.
-
+| **[E-Commerce Sales Performance Analysis](projects/ecommerce-sales-analysis/)** *(In progress)* | E-commerce analytics | pandas, NumPy, Matplotlib, Seaborn | Analyses online sales, business performance, and profitability through statistical analysis and data visualisation. |
 | Agricultural Commodity Price Analysis | Time-series analysis | pandas, NumPy, Matplotlib | Cleans and analyses commodity price data to identify trends, price movements, and periods of market volatility. |
 | Food Supply Chain Simulation | Simulation modelling | SimPy, pandas, Matplotlib | Models the movement of agricultural products through production, transportation, storage, and distribution stages. |
 | Exploratory Data Analysis Project | Data wrangling and EDA | pandas, Matplotlib, Seaborn | Demonstrates data cleaning, exploratory analysis, statistical summaries, and visual communication. |
