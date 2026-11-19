@@ -2,7 +2,7 @@
 
 Welcome to my data science portfolio.
 
-I am a multidisciplinary data professional with training in **agronomy, agricultural economics, environmental science, and data science**. My work focuses on transforming complex data into clear analysis, visual evidence, dashboards, and decision-support tools.
+I am an **economist specializing in food systems, international trade, sustainability, and public policy**, with professional experience across Brazil, Canada, El Salvador, Spain, Switzerland, and the United States. I combine expertise in economic modelling and statistical analysis with proficiency in **Python, R, SQL, Excel, and Power BI** to develop data-driven insights, interactive dashboards, and decision-support tools.
 
 This portfolio showcases selected projects developed with **Python, R, SQL, statistical modelling, machine learning, data visualization, and web applications**.
 
