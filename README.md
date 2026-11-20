@@ -36,7 +36,6 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 
 | Project | Area | Libraries | Project Description |
 | --- | --- | --- | --- |
-| **[E-Commerce Sales Performance Analysis](projects/ecommerce-sales-analysis/)** *(In progress)* | E-commerce analytics | pandas, NumPy, Matplotlib, Seaborn | Analyses online sales, business performance, and profitability through statistical analysis and data visualisation. |
 | Agricultural Commodity Price Analysis | Time-series analysis | pandas, NumPy, Matplotlib | Cleans and analyses commodity price data to identify trends, price movements, and periods of market volatility. |
 | Food Supply Chain Simulation | Simulation modelling | SimPy, pandas, Matplotlib | Models the movement of agricultural products through production, transportation, storage, and distribution stages. |
 | Exploratory Data Analysis Project | Data wrangling and EDA | pandas, Matplotlib, Seaborn | Demonstrates data cleaning, exploratory analysis, statistical summaries, and visual communication. |
@@ -85,6 +84,7 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 - SQL
 - Git and GitHub
 - Microsoft Excel
+- Power BI
 - Jupyter Notebook
 - RMarkdown (Documents and Slide Presentations)
 -
@@ -101,7 +101,7 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 
 - Exploratory data analysis
 - Data cleaning and transformation
-- Statistical analysis
+- Statistical analysis (Parametric & Non-parametric)
 - Survey analysis
 - Regression modelling
 - Machine learning
@@ -129,6 +129,7 @@ I have worked across multicultural and international environments involving stak
 ## 📬 Contact
 
 - 🌐 [Personal Website](https://diegomacall.github.io)
+- 👨🏻‍💻 [Personal Website](https://scholar.google.com/citations?user=0jgz9EkAAAAJ&hl=en)
 - 💻 [GitHub Profile](https://github.com/diegomacall)
 - 🔬 [ORCID](https://orcid.org/0000-0002-9436-8740)
 

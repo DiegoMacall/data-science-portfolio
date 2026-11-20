@@ -1,0 +1,8 @@
+# Keep Kaggle source files local until the reuse terms and file size are checked.
+data/*
+!data/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
