@@ -26,7 +26,6 @@ This portfolio showcases selected projects developed with **Python, R, SQL, stat
 | Project | Area | Tools | Description |
 | --- | --- | --- | --- |
 | [Catalonia Investment Intelligence](https://intelligence.ciberra.com/) | Investment Intelligence | Population, incoming capital, industrial trade | Interactive Plotly application developed to support investment planning. |
-
 | [ICABR 2026 Budget Tool](https://diegomacall.shinyapps.io/icabr_budget_app/) | Budget analysis and decision support | R, Shiny, tidyverse | Interactive application developed to support financial planning and budget management for the 2026 ICABR Conference. |
 | Agricultural Commodity Market Analysis | Time-series analysis | Python, pandas, Matplotlib | Analysis of agricultural commodity prices, market trends, volatility, and changes over time. |
 | Food Supply Chain Simulation | Systems modelling | Python, SimPy | Discrete-event simulation of product flows, bottlenecks, delays, and resource constraints across a food supply chain. |
